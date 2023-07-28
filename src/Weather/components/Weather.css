@@ -1,0 +1,12 @@
+.search-loc{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+
+.weather-info{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}

@@ -1,0 +1,15 @@
+.stop-watch {
+  background-color: hsl(0, 0%, 47%);
+  display: flex;
+  justify-content: center;
+}
+
+.time-elapsed{
+  text-align: center;
+}
+
+.button-watch {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
